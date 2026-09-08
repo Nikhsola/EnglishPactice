@@ -1,6 +1,6 @@
 # English Learning Profile
 
-_Last updated: August 20, 2026_
+_Last updated: September 8, 2026_
 
 ## 1. Learner Overview
 
@@ -22,6 +22,7 @@ The learner benefits strongly from repetition immediately after correction rathe
 - Recycle recently learned expressions later in conversation.
 - Keep explanations conversational and relatively short.
 - Prioritize natural spoken English over exhaustive grammatical terminology.
+- Keep the conversation active after a correction loop is completed; the learner prefers the coach to proactively ask the next relevant question rather than waiting silently.
 
 ### Important learner feedback
 
@@ -56,14 +57,22 @@ Focus on maintaining the correct tense and subject–verb form during spontaneou
 Observed:
 - “on crunch time” → “in crunch time”
 - Unnatural pickup phrasing → “pick her up from work”
+- “prepare to the assessment” → “prepare for the assessment”
 
-The learner often understands the intended meaning but needs help selecting the natural English combination.
+The learner often understands the intended meaning but needs help selecting the natural English combination. The September 8 session provided additional evidence that preposition/collocation choice remains an active priority.
 
 ### D. Word order and phrase formation
 
 The learner sometimes builds phrases directly from an underlying idea rather than using the conventional English expression.
 
 Useful strategy: provide and practice the complete natural phrase instead of correcting isolated words one at a time.
+
+### E. State adjective vs. progressive verb form
+
+Recent example:
+- “I’m worrying about the results” → “I’m worried about the results.”
+
+Current evidence is limited to the September 8 session, so this should be monitored rather than treated as a firmly established recurring pattern.
 
 ## 4. Vocabulary Issues and Semantic Nuance
 
@@ -101,6 +110,16 @@ Natural expression:
 
 This successfully replaced a less-natural construction involving “take my wife … from work.”
 
+### Planning and assessment language
+
+Recently practiced chunks:
+- “I plan to take the English exam this week.”
+- “I plan to prepare for the assessment this week.”
+- “I’m worried about the results.”
+- “I’m not confident I can reach B2 yet.”
+
+These should be recycled in future sessions to build automaticity.
+
 ## 5. Natural English Notes
 
 The learner benefits from learning complete chunks rather than individual vocabulary items.
@@ -114,6 +133,11 @@ Useful expressions successfully practiced:
 - “What did you say again? I don’t remember.”
 - “It’s rush hour. The traffic is heavy.”
 - “We’re in crunch time because the deadline is coming up, so everyone is working overtime.”
+- “I plan to take the English exam this week.”
+- “I plan to prepare for the assessment this week.”
+- “I plan to mow the lawn this week.”
+- “I’m worried about the results.”
+- “I’m not confident I can reach B2 yet.”
 
 Key distinction:
 
@@ -138,6 +162,8 @@ Spoken production frequently includes:
 
 The learner is able to repeat corrected sentences clearly when given a model.
 
+The word “lawn” required focused repetition on September 8, but one session is insufficient to establish a recurring pronunciation problem. Monitor it naturally in future speech.
+
 ## 7. Fluency Analysis
 
 The learner communicates successfully despite frequent hesitation.
@@ -151,6 +177,8 @@ Typical fluency characteristics:
 - occasional difficulty retrieving a phrase
 - strong willingness to pause and ask for clarification
 
+The September 8 session continued to show fillers and false starts when retrieving vocabulary and constructing spontaneous sentences. However, after guided repetition, the learner was able to produce several target chunks accurately.
+
 The main opportunity is not simply speaking faster, but becoming more automatic with common English chunks and reducing hesitation around word choice.
 
 ## 8. Strengths
@@ -163,6 +191,7 @@ The main opportunity is not simply speaking faster, but becoming more automatic 
 - Comfortable discussing everyday situations spontaneously.
 - Can use newly learned phrases after guided practice.
 - Notices when an explanation does not fully answer the intended question and keeps asking until the distinction is clear.
+- Responds well to repeated production of a target phrase and can reach an accurate final version after several attempts.
 
 ## 9. Weak Areas
 
@@ -170,29 +199,32 @@ Priority areas:
 
 1. **Be/auxiliary forms**
    - “we in” → “we’re in”
-2. **Tense**
+2. **Tense and verb forms**
    - present vs. past when describing completed actions
+   - monitor state/adjective patterns such as “I’m worried” rather than “I’m worrying” when describing a current feeling
 3. **Subject–verb agreement**
    - “we works” → “we work”
-4. **Prepositions**
+4. **Prepositions and collocations**
    - “on crunch time” → “in crunch time”
-5. **Natural collocations**
+   - “prepare to the assessment” → “prepare for the assessment”
+5. **Natural collocations and chunks**
    - “pick her up from work”
+   - “plan to + verb”
 6. **Vocabulary nuance**
-   - especially distinguishing similar-looking or related expressions
+   - especially distinguishing similar-looking or related expressions and selecting context-appropriate words such as “topic” vs. “subject”
 7. **Fluency**
    - reducing fillers, false starts, and repeated words
 
-## 10. Progress Recorded Today
+## 10. Recent Progress
 
-Several important points were consolidated today:
+### September 8, 2026
 
-- The learner explicitly defined and reinforced the preferred coaching method: **natural conversation + targeted correction + mandatory repetition + recycling**.
-- The learner asked that important and recurring mistakes be corrected without over-interrupting minor slips.
-- The learner emphasized self-correction and repetition as essential for retention.
-- The learner clarified that the English Learning Profile should be treated as the persistent source of truth for previous learning history.
-- The learner confirmed that pronunciation feedback should only be given when there is reasonable evidence from speech/transcription.
-- The learner wants coaching to move toward B2/C1 fluency, with gradual increases in difficulty, vocabulary depth, naturalness, and conversational complexity.
+- Successfully practiced the productive pattern **“I plan to + verb”** across multiple examples.
+- Correctly produced “I plan to prepare for the assessment this week” after correction of the preposition.
+- Correctly produced “I’m worried about the results” after contrasting it with “I’m worrying about the results.”
+- Correctly produced “I’m not confident I can reach B2 yet.”
+- Demonstrated that mandatory repetition continues to work well: several initially inaccurate phrases became accurate after short correction loops.
+- Explicitly reinforced a preference for an active coach-led conversation after corrections, rather than periods of silence or waiting.
 
 Previously demonstrated gains retained in the profile:
 
@@ -228,6 +260,14 @@ And produced:
 - spending time with a spouse
 - music
 - trance music
+- weekly plans
+- lawn care
+
+### English assessment / learning
+- preparing for an assessment
+- concerns about assessment results
+- reaching B2
+- planning language
 
 ### Vocabulary / expressions
 - rush hour
@@ -238,6 +278,11 @@ And produced:
 - pick someone up
 - deadline
 - behind schedule
+- plan to
+- prepare for
+- worried about
+- confident
+- mow the lawn
 
 ## 12. Coaching Protocol for Future Sessions
 
@@ -252,10 +297,10 @@ When an important mistake appears:
 5. Correct the repetition if necessary.
 6. Have them repeat again until acceptable.
 7. Confirm success.
-8. Continue the conversation.
+8. Continue the conversation proactively with a relevant question.
 9. Recycle the same structure or expression later.
 
-Do not simply give a correction and immediately move on.
+Do not simply give a correction and immediately move on, but also do not leave the learner waiting after the correction loop is complete.
 
 ### Prioritize
 
@@ -268,6 +313,13 @@ Do not simply give a correction and immediately move on.
 - subject–verb agreement
 - useful vocabulary distinctions
 - reducing fillers and false starts
+
+### Near-term recycling targets
+
+- **I plan to + verb**
+- **prepare for + noun**
+- **be worried about + noun**
+- **be confident (that) + clause**
 
 ### When explaining vocabulary
 
